@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @atulkakrana
 - 👀 I’m interested in precision medicine, RWE, and applying computer science for improving human health
-- 🌱 I’m currently learning quantum computing
 - 💞️ I’m looking to collaborate on technology that helps improve human health or health outcomes
 - 📫 You can reach me at kakrana@gmail.com
 
