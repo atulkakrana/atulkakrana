@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atulkakrana
-- 👀 I am a computer scientist (PhD) and business leader 
+- 👀 I am a computer scientist (PhD) and Data Science business leader 
 - 👀 I apply AI, ML, Quantum Computing, NLP for health and lifescience domain  
 - 💞️ I would love to collaborate for technologies that helps improve human health or health outcomes
 - 📫 You can reach me at kakrana@gmail.com or set up time with me through my [website](https://sites.google.com/view/atulkakrana/home?authuser=0)
