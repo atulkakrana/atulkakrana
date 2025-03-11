@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @atulkakrana
-- 👀 I’m interested in precision medicine, RWE, and applying computer science for improving human health
+- 👀 I am a computer scientist (PhD) and business leader 
+- 👀 I apply AI, ML, Quantum Computing, NLP for health and lifescience domain  
 - 💞️ I would love to collaborate for technologies that helps improve human health or health outcomes
 - 📫 You can reach me at kakrana@gmail.com
 
